@@ -1,0 +1,443 @@
+ls
+cd semana1/
+ls
+man hello-world.py
+man readme.first 
+cat hello-world..c
+cat hello-world.c
+cat hello-world.py
+g++ hello-world.c -o hello-word
+ls
+cat hello-word
+PuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTY
+ls
+./hello-word
+python3 hello-world.py
+time ./hello-word
+time python3 hello-world.py
+exit
+ls -F
+GNUstep
+ls -F
+cd Mail/
+ls
+ls -F
+cd..
+cd...
+cd .. 
+ls
+cd News
+ls
+ls -F
+cd ..
+cd semana1/
+ls
+ls -F
+cat hello-word
+PuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTY
+ls
+cuifenswdhwk
+history
+ls
+exit
+ls
+ls -F *.txt
+cd semana1/
+ls
+ls -F *.txt
+ls *.txt
+cat readme.first 
+cd ~/
+ls -F
+ls
+ls -aF
+ls -a
+cat .bash_profile 
+pwd
+cd
+cd/
+ls -F
+cd ~/Mail/
+pwd
+cd ..
+/cd News
+ce ~/News/
+cd ~/News/ 
+cd ~/
+ls
+cd semana1
+cd .. Mail
+cd Mail/
+cd ..
+cd News/
+cd .. 
+cd News
+cd^/
+cd ~/
+cd News/
+ls
+ls -F
+cd ~/
+ls -F
+cd ~/News/
+ls
+cd ~/
+man wc
+apropos colunm
+apropos column
+wc 
+ls -l
+ls -lt
+ls
+ls -lt
+ls -l
+ls -lt | head
+ls -lh
+man sleep
+wget
+[gdia@cen0336 ~]$
+command not found
+[gdia@cen0336 ~]$
+command not found
+[gdia@cen0336 ~]$
+command not found
+[gdia@cen0336 ~]$
+command not found
+[gdia@cen0336 ~]$
+cen0336: command not found
+[gdia@cen0336 ~]$ command not found
+-bash: not: command not found
+[gdia@cen0336 ~]$ [gdia@cen0336336: command not found
+-bash: cen0336:: command not found
+curl -0 https://raw.githubusercontent.com/labbces/cen0336/master/files/cuffdiff.txt
+ls
+grep Chr7 cuffsiff.txt > fav_chr_cuffdidd.txt
+grep Chr7 cuffdiff.txt > fav_chr_cuffdiff.txt
+ls
+mv fav_chr_cuffdidd.txt 
+ls
+r.midr
+man rmdir
+rmid fav_chr_cuffdidd.txt 
+ rmdir fav_chr_cuffdidd.txt 
+pwd
+rmdir /home/gdia/fav_chr_cuffdidd.txt 
+man rm
+rm  /home/gdia/fav_chr_cuffdidd.txt 
+ls
+cat fav_chr_cuffdiff.txt 
+w
+ls
+cd~/
+cd~~/
+cd~/
+pwd
+mkdir
+man mkdir
+mkdir problemsets
+ls
+cd problemsets/
+ls
+wget https://raw.githubusercontent.com/labbces/cen0336/master/files/sequences.nt.fa
+wc sequences.nt.fa 
+head sequences.nt.fa 
+tail sequences.nt.fa 
+grep >
+grep > sequences.nt.fa 
+grep ' >'  sequences.nt.fa 
+grep ' >'  sequences.nt.fa | wc -l
+grep '>'  sequences.nt.fa | wc -l
+grep >  sequences.nt.fa | wc -l
+grep >  sequences.nt.fasta | wc -l
+ls
+grep > sequences.nt.fasta | wc -l
+grep' >' sequences.nt.fasta | wc -l
+grep ' >' sequences.nt.fasta | wc -l
+grep '>' sequences.nt.fasta | wc -l
+grep '>' sequences.nt.fasta
+wc -l
+ls
+cd problemsets/
+ls
+man grep
+grep '>' sequences.nt.fasta
+grep '>' sequences.nt.fasta | wc -l
+grep 'A' sequences.nt.fasta | wc -l
+grep A  sequences.nt.fasta | wc -l
+grep A sequences.nt.fasta | wc -l
+man mv
+mv /home/gdia/problemsets/sequences.nt.fa /home/gdia/problemsets/cancer_genes.fasta
+ls
+wget https://raw.githubusercontent.com/labbces/cen0336/master/files/cuffdiff.txt
+ls
+head cuffdiff.txt 
+cat cuffdiff.txt 
+grep >  sequences.nt.fasta | wc -l
+grep ' >' sequences.nt.fasta
+grep '>' sequences.nt.fasta
+grep '>' sequences.nt.fasta | wx
+grep '>' sequences.nt.fasta | wc
+grep >  sequences.nt.fasta | wc
+grep > sequences.nt.fasta | wc
+grep '>' < sequences.nt.fasta | wc
+wc sequences.nt.fasta 
+ls
+wc -c
+ls 
+cd problemsets/
+ls
+cd problemsets/
+ld
+ls
+head sequences.nt.fasta 
+cat sequences.nt.fasta 
+grep '>' sequences.nt.fasta | wc
+head sequences.nt.fasta 
+ls -l sequences.nt.fasta 
+apropos remove
+rm sequences.nt.fasta 
+ls
+rm (1)               - remove files or directories
+wget https://raw.githubusercontent.com/labbces/cen0336/master/files/sequences.nt.fa
+ls -l
+head sequences.nt.fa 
+grep '>' sequences.nt.fa
+grep '>' sequences.nt.fa | wc
+man wc
+grep '>' sequences.nt.fa | wc -l
+man wc
+grep > sequences.nt.fa
+ls -l
+cd~/
+cd~
+ls
+cd/bin/
+cd bin
+cd ..
+cd bin
+cd problemsets/
+head cuffdiff.txt 
+man sort
+sort -k 10 -r -n cuffdiff.txt > teste.out
+ls
+head teste.out 
+man sort
+man sort -k
+sort -k 10 -r -n cuffdiff.txt > sorted.cuffdiff.out
+rm teste.out 
+sort -k 10 -r -n cuffdiff.txt | head -n 100 > top100.sorted.cuffdiff.out
+head top100.sorted.cuffdiff.out 
+wc -l top100.sorted.cuffdiff.out 
+sort -k 10 -r -n cuffdiff.txt | head -n 100 | cut -f 1 > differentially.expressed.genes.txt
+head differentially.expressed.genes.txt 
+man awk
+head differentially.expressed.genes.txt 
+man vim
+vi differentially.expressed.genes.txt 
+vim differentially.expressed.genes.txt 
+exit
+ls
+nano fav_chr_cuffdiff.txt 
+history 
+cd semana1/
+ls
+nano fav_chr_cuffdiff.txt 
+cd~/
+cd
+~cd..
+cd..
+pws
+pwd
+vi fav_chr_cuffdiff.txt 
+vi first_vi_file.txt
+echo "#PFB_problemsets" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git config --global user.email giulia.dias@usp.br
+me (for <gdia@cen0336.localdomain>) not allowed
+[gdia@cen0336 ~]$ git config --global user.email giulia.dias@usp.br
+[gdia@cen0336 ~]$ git remote add origin
+echo "#PFB_problemsets" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git config --global user.email giulia.dias@usp.br
+git remote add origin https://github.com/giuliadias/PFB_problemsets.git
+git push -u origin master
+git remote add origin https://github.com/giuliadias/PFB_problemsets.git
+git branch -M master
+git push -u origin master
+git remote add origin https://github.com/giuliadias/PFB_problemsets.git
+git init
+git status
+git remote add
+vi git_exercises.txt
+ls
+vi README.md 
+git add git_exercises.txt 
+git commit -m 'added a line of text'
+git config --global user.name giuliadias
+git config --global user.name "giuliadias"
+git config --global user.email giulia.dias@usp.br
+exit
+cd~/.ssh
+ssh-keygen -t rsa -C giulia.dias@usp.br
+mkdir key_backup
+cd id_rsa* key backup
+ssh
+get id_rsa.pub
+gedit id_rsa.pub
+gedit
+sudo apt-get install gedit
+ls
+rm git_exercises.txt 
+ls
+sudo apt-get install git-core git-gui git-doc
+vi README.md 
+pwd README.md 
+git config --global user.mail "giulia.dias@usp.br"
+mkdir PROJETOS-GIT
+cd PROJETOS-GIT/
+mkdir TESTE
+git init
+echo "teste" >> README.md
+git add README.md
+git commit -m "primeiro teste"
+git remote add origin https://github.com/giuliadias/teste.git
+git status
+git push -u origin master
+git remote add origin https://github.com/giuliadias/TESTE.git
+cd ..
+ls
+rm key_backup/
+rm pwd key_backup/
+rm /home/gdia/key_backup/
+cd key_backup/
+ls
+cd ..
+echo "# PFB_problemsets" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/giuliadias/PFB_problemsets.git
+git push -u origin master
+git remote add origin https://github.com/giuliadias/PFB_problemsets.git
+ls
+git@github.com:giuliadias/PFB_problemsets.git
+exit
+echo "# teste" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/giuliadias/teste.git
+git push -u origin master
+ls
+git
+git status
+rm PROJETOS-GIT/
+rkdir PROJETOS-GIT/
+rmdir PROJETOS-GIT/
+cd PROJETOS-GIT/
+LS
+ls
+cd TESTE
+cd..
+cd ..
+vi TESTE/
+cd ..
+ls
+cd PROJETOS-GIT/
+ls
+cd PROJETOS-GIT/
+ls
+cd TES
+cd TESTE/
+ls
+cd ..
+git init
+ls
+cd PROJETOS-GIT/
+ls
+cd TESTE/
+ls
+CD~/
+cd~/
+cd ~/
+git remote add origin https://github.com/giuliadias/PFB_problemsets.git
+git init
+git status
+git add*
+git add *
+git status
+git commit
+git add *
+git commit
+git remote add origin https://github.com/giuliadias/example.git
+git branch -M master
+git push -u origin master
+ls
+git remote add origin https://github.com/giuliadias/example.git
+git branch -M master
+git push -u origin master
+git status
+git,
+git
+git remote add origin https://github.com/gvsdias/teste.git
+git branch -M master
+git push -u origin master
+git remote show origin
+git pull
+ls
+cd problemsets/
+vi git_exercises.txt
+git add git_exercises.txt
+git commit -m 'added a line of text'
+git push origin master
+git clone https://github.com/prog4biol/pfb2019.git
+git pull
+ls
+pfb2019/
+ls
+cd pfb2019/
+ls
+cd ~/
+lds
+ls
+exit
+ls
+cd problemsets/
+ls
+mkdir files
+ls
+man mv
+cd ..
+cd semana1/
+ls
+cd ..
+problemsets/
+ls
+cd problemsets/
+ls
+pwd
+cd ~/
+git init
+ls
+history 
+git remote add origin https://github.com/giuliadias/PFB_problemsets.git
+ls
+git pull
+ls
+cd PROJETOS-GIT/
+ls
+cd
+cd TES
+cd TEST
+cd TESTE
+git push -u origin master
+ls
+git pull
+ls
+git exit
+exit

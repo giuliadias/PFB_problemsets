@@ -1,0 +1,3 @@
+#Para compilar o programa hello-world.c usar o comando
+g++ hello-world.c -o hello-world
+

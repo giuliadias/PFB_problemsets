@@ -1,0 +1,5 @@
+i
+olá
+esse é o primeiro arquivo de texto no vi editor que estou usando
+ 
+02/09/2020 
